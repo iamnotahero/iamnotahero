@@ -52,6 +52,8 @@
 
 ---
 
+![Snake animation](https://github.com/iamnotahero/iamnotahero/blob/output/github-contribution-grid-snake.svg)
+
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://iamnotahero.github.io/My-Portfolio/
 - 💻 GitHub: https://github.com/iamnotahero
