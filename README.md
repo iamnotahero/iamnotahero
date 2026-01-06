@@ -51,9 +51,7 @@
 </p>
 
 ---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamnotahero&show_icons=true&locale=en&layout=compact" alt="iamnotahero" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamnotahero&" alt="iamnotahero" /></p>
 ## 📫 Connect With Me
 - 🌐 Portfolio: https://iamnotahero.github.io/My-Portfolio/
 - 💻 GitHub: https://github.com/iamnotahero
