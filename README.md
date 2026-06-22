@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 4th Year **BS Computer Science** student at **NU Laguna**
+- 🎓 **BS Computer Science** Graduate at **NU Laguna**
 - 🕹️ Passionate about **Game Development & Procedural Generation**
 - 🤖 Working with **AI, CNNs, NLP, and Machine Learning**
 - 🌐 Full-stack experience with **Django, React, PHP, MySQL**
