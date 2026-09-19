@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hendrix</h1>
-<h3 align="center">Computer Science Student | Game Developer | Web & AI Enthusiast</h3>
+<h3 align="center">Computer Science Graduate | Game Developer | Web & AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://iamnotahero.github.io/My-Portfolio/">Portfolio</a> •
