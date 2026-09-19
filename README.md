@@ -24,7 +24,7 @@
 
 ### System Developer Intern — YouCode Technologies Corporation
 
-Worked on an **Event Management and Online Booking System** involving:
+Worked on an **Event Management System** involving:
 
 * ⚙️ Backend development using **Laravel**
 * 🌐 Frontend development using **Vue.js**
