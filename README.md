@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Graduate | Software Developer | Game Developer</h3>
 
 <p align="center">
-  <a href="https://iamnotahero.github.io/My-Portfolio/">Portfolio</a> •
+  <a href="https://hendrix-portfolio.vercel.app/">Portfolio</a> •
   <a href="https://github.com/iamnotahero">GitHub</a>
 </p>
 
