@@ -78,7 +78,7 @@ A Unity game developed for the **QS ImpACT Skills Challenge 2025**, where our te
 
 ---
 
-### 🌍 Procedural Multiplayer Planet — Unity
+### 🌍 Procedural Multiplayer Planet — Unity ( IN PROGRESS )
 
 A personal Unity project focused on procedural planetary terrain and multiplayer gameplay.
 
