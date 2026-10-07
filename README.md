@@ -148,5 +148,5 @@ I also have experience working with machine learning and computer vision, includ
 
 ## 📫 Connect With Me
 
-* 🌐 Portfolio: https://iamnotahero.github.io/My-Portfolio/
+* 🌐 Portfolio: https://hendrix-portfolio.vercel.app/
 * 💻 GitHub: https://github.com/iamnotahero
