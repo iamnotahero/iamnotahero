@@ -95,6 +95,8 @@ A personal Unity project focused on procedural planetary terrain and multiplayer
 
 An AI-controlled Pong game exploring game AI and reinforcement-based behavior.
 
+🎬 **Game:** https://hendrix-cs50pong.vercel.app/
+
 ---
 
 ### 🎬 Cinema Seat Booking System
@@ -119,7 +121,7 @@ A real-time chat application built using:
 
 * React
 * Stream.io
-
+**Link:** https://me-chat-app-front-end.vercel.app/
 ---
 
 ## 🤖 AI & Machine Learning
