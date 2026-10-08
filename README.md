@@ -93,7 +93,7 @@ A personal Unity project focused on procedural planetary terrain and multiplayer
 
 ### 🧠 AI Pong — LOVE2D
 
-An AI-controlled Pong game exploring game AI and reinforcement-based behavior.
+My CS50G Submission for PONG.
 
 🎬 **Game:** https://hendrix-cs50pong.vercel.app/
 
